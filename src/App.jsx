@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import Cell from './Cell';
 import './App.css';
